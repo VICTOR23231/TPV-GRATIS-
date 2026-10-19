@@ -1,62 +1,64 @@
-# TPV-GRATIS-
-Software TPV gratis para comercios y tiendas. Programa de terminal punto de venta sin cuotas mensuales: cobros, tickets, control de stock y compatibilidad con impresoras térmicas.
+# Software TPV Gratis para Tiendas y Comercio Minorista
 
+Programa de Terminal Punto de Venta (TPV) para comercio en España. Diseñado para gestionar la venta en mostrador, emisión de tickets con código QR reglamentario, control de inventario y cobros rápidos sin pagar cuotas mensuales ni comisiones sobre venta.
 
-# Software TPV Gratis para Pequeño Comercio y Tiendas
-
-Programa de Terminal Punto de Venta (TPV) diseñado para gestionar cobros, tickets, catálogo de productos y control básico de stock en negocios locales y minoristas sin ataduras a cuotas mensuales ni comisiones por venta.
-
-👉 **[Descargar la versión recomendada y guía de instalación](https://tudominio.com)**
+👉 **[Descargar versión gratuita sin tarjeta de crédito en Carrito5.com](https://carrito5.com)**
 
 ---
 
-## ¿Por qué evitar los TPVs con suscripción mensual recurrente?
+## El problema de los TPVs en la nube con cuota mensual
 
-La mayoría de opciones en la nube exigen pagos mensuales fijos de entre 30€ y 90€ al mes más comisiones sobre facturación. Para un comercio de proximidad, quiosco, tienda de alimentación o boutique, este gasto fijo merma los márgenes desde el primer día.
+La mayoría de programas de punto de venta actuales exigen suscripciones recurrentes de entre 30 € y 90 € al mes. Si la conexión a internet falla o el servidor se cae, la tienda queda paralizada sin poder cobrar ni abrir el cajón portamonedas.
 
-Un sistema TPV local o sin suscripción ofrece:
+Caja 5 funciona de forma diferente:
 
-* **Control total de tus datos:** Los registros de clientes y facturas residen en tu equipo, sin depender de servidores externos ni caídas de internet.
-* **Cero comisiones añadidas:** Cobras mediante el datáfono que tú elijas con tu entidad bancaria habitual.
-* **Arranque rápido:** Compatible con ordenadores estándar con Windows y periféricos habituales (lectores USB, cajones portamonedas e impresoras ESC/POS).
+* **1.000 artículos completamente gratis:** Versión operativa sin límite de días, sin introducir tarjeta de crédito ni compromisos de permanencia.
+* **100% Operativo sin conexión (Offline):** La base de datos reside en tu propio ordenador. Si se corta la fibra o el router falla, sigues cobrando e imprimiendo tickets con total normalidad.
+* **Sin comisiones bancarias intermedias:** Cobras a través de tu datáfono físico habitual del banco que elijas. Cero comisiones por ticket vendido.
+* **Sin hardware cautivo:** Instálalo en cualquier PC, portátil o pantalla táctil con Windows 7, 8, 10 u 11.
 
 ---
 
-## Funcionalidades principales
+## Funcionalidades para Mostrador y Tienda
 
-### Gestión de Mostrador y Ventas
-* Generación de tickets y facturas simplificadas.
+### Venta Rápida y Tickets
+* Emisión ágil de tickets y facturas simplificadas en impresoras térmicas estándar (ESC/POS de 58 mm y 80 mm).
+* Compatible con lectores de código de barras USB e inalámbricos.
+* Cobro mixto (efectivo, tarjeta, vales de devolución).
 * Apertura automática de cajón portamonedas y corte de papel.
-* Aplicación de descuentos por línea o totales.
-* Métodos de cobro mixtos (efectivo, tarjeta, vales).
 
-### Control de Artículos y Stock
-* Organización por familias y subfamilias.
-* Entrada de códigos de barras (EAN-13, EAN-8) mediante lector óptico o teclado.
-* Avisos de stock mínimo para reposición de producto.
+### Artículos, Stock y Tallas
+* Gestión de tallas y colores (matriz específica para moda, calzado y textil).
+* Conexión con balanzas electrónicas en mostrador para pesaje de artículos a granel (fruterías, carnicerías, alimentación).
+* Alertas de stock mínimo y control de reposición de inventario.
+* Modificación masiva de precios por familias o porcentajes.
 
-### Cierres de Caja y Cuadres
-* Cierre de turno y arqueo diario (informes Z y X).
-* Desglose de ingresos desglosados por forma de pago.
-* Historial de ventas exportable a formatos estándar (Excel/CSV).
+### Control de Caja y Arqueo
+* Arqueo ciego de caja para evitar discrepancias al final de turno.
+* Informes diarios de cierre X y Z con desglose por formas de pago.
+* Historial de ventas e informes exportables.
 
----
-
-## Requisitos de Hardware Compatibles
-
-El software funciona en configuraciones básicas de sobremesa y TPVs compactos:
-
-* **Sistema Operativo:** Windows 10, Windows 11 o Windows 7/8.
-* **Memoria RAM:** 4 GB mínimo (8 GB recomendado).
-* **Impresoras de tickets:** Cualquier impresora térmica con conexión USB o Ethernet estándar de 58mm u 80mm (ESC/POS).
-* **Lector de código de barras:** Lectores de pistola USB genéricos (HID).
+### Homologación y Normativa Fiscal
+* Adaptado a la normativa de la Ley Antifraude 11/2021 y Real Decreto 1007/2023 (Reglamento VeriFactu).
+* Compatible con TicketBAI para empresas y autónomos en el País Vasco (Álava, Guipúzcoa y Vizcaya).
+* Encadenamiento de registros con huella criptográfica (SHA-256) y código QR reglamentario en ticket.
 
 ---
 
-## Recursos y Documentación
+## Requisitos de Instalación
 
-Para ver la comparativa completa, manual de configuración inicial y descarga directa:
+El programa requiere pocos recursos y se ejecuta en cualquier equipo de oficina estándar:
 
-* [Guía de configuración paso a paso](https://tudominio.com/guia)
-* [Descarga de plantillas de catálogo](https://tudominio.com/descargas)
-* [Soporte y preguntas frecuentes](https://tudominio.com/faq)
+* **Sistema operativo:** Windows 11, Windows 10, Windows 8 o Windows 7.
+* **Memoria RAM:** 4 GB mínimo.
+* **Periféricos:** Funciona con cualquier cajón portamonedas conectado a la impresora de tickets (RJ11), lectores ópticos USB estándar e impresoras térmicas de tickets.
+
+---
+
+## Descarga directa y Soporte Técnico
+
+Para comenzar a utilizar el programa en tu tienda:
+
+* 📥 **[Descargar instalador oficial en Carrito5.com](https://carrito5.com)**
+* 📞 **Atención telefónica directa (Jaén):** 953 050 112
+* 💬 **WhatsApp de consultas:** 611 500 052
